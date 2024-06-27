@@ -18,6 +18,8 @@ Se dispone de un conjunto de datos denominado Tendencias de las estadísticas de
 
 ## Conclusiones
 
+La metodología CRISP-DM fue esencial para mantener un trabajo consistente en el proyecto. Definir las etapas y los roles de los integrantes también fue un factor importante para distribuir las tareas de forma equitativa. Al seguir estos procedimientos se aumenta la probabilidad de que el proyecto de análisis de datos sea exitoso.
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE).
